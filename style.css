@@ -1,0 +1,31 @@
+.box
+{
+margin:50px;
+padding : 20px;
+background:blue;
+border:2px solid #333;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}
+
+body{
+background:black;
+}
+
+#result
+{
+
+color:white;
+}
+
+#aa
+{
+margin:50px;
+background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}

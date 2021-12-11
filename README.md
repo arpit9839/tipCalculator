@@ -1,0 +1,2 @@
+# tipCalculator
+calculte the tip
